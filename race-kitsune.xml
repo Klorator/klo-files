@@ -3,7 +3,7 @@
 	<info>
 		<name>Kitsune</name>
 		<update version="0.0.1">
-			<file name="race-kitsune.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook/races/race-tiefling.xml" />
+			<file name="race-kitsune.xml" url="https://github.com/Klorator/klo-files/blob/master/race-kitsune.xml" />
 		</update>
 		(source: https://www.dandwiki.com/wiki/Kitsune_(5e_Race))
 	</info>
