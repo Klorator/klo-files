@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Kitsune</name>
+		<update version="0.0.1">
+			<file name="race-kitsune.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook/races/race-tiefling.xml" />
+		</update>
+		(source: https://www.dandwiki.com/wiki/Kitsune_(5e_Race))
+	</info>
+
+	<element name="Kitsune" type="Race" source="dandwiki" id="ID_RACE_KITSUNE">
+		<description>
+			<p class="flavor">It has been a long time, children, but it is time to break
+					back into the world. Know this: the world is ever changing. You may be
+					the target of discrimination and hatred. Hopefully, those out in the world
+					have learned from their egregious past and moved on. Do not hate someone
+					for their skin. Do not hate someone for their past. Learn to live with
+					them in the here and now because if you don't, happiness will never be
+					attained in your life. —Tsukiko, a nine-tailed kitsune, to her people
+					before sending out ambassadors to other race's kingdoms.</p>
+
+			<h4>PHYSICAL DESCRIPTION</h4>
+			<p>A kitsune has a stature similar to that of an elf, being a bit shorter,
+					and lither than a typical human. In their natural form, they are much
+					like anthropomorphic foxes. They usually have light colored fur, reddish
+					brown, white, golden brown, though it isn't completely unheard of for
+					them to possess black fur that covers their entire body. Their eyes range
+					in color as well, though most have blue, green, or brown eyes. Albeit
+					uncommon they may also have orange, purple, yellow, or even red eyes.
+					They have mostly human-like hands with dark black claws at the ends of
+					their fingers and paw pads on their feet and hands. A kitsune is born
+					with a single tail, growing a new tail every 5-6 years starting when
+					they reach adulthood at 16. However, a kitsune's age is very difficult
+					to tell since they appear to stop aging in their early twenties and live
+					to be a century and a half.</p>
+
+			<h4>HISTORY</h4>
+			<p>Kitsune are quite rare. They tend to hide their heritage while dealing
+					with other races to avoid discrimination and hatred. There are many
+					legends relating to powerful nine-tailed kitsune. Tending to be powerful
+					sorcerers, it is said that kitsune are born tricksters and have
+					nigh-infinite power by the time they are fully matured. Supposedly, the
+					only way to kill a kitsune is to cut off all of its tails, but that is
+					simply a tall tale. Due to the legend stating that a kitsune's tail
+					contains power, they were nearly wiped out and most of them went into
+					hiding. Only just getting back into the world after centuries of isolation,
+					it is still the practice of some races to sever a kitsune's tail in hopes
+					of obtaining power.</p>
+
+			<h4>SOCIETY</h4>
+			<p>Kitsune society used to be flourishing with mages and clerics. Since
+					Kitsune are born with magic in their blood, it is common for them to
+					seek to improve on what they are already gifted with. They used to be
+					a very open people. Many of the legends of the Kitsune came from the
+					Kitsune themselves, spinning tall tales of grand heroic mages and warriors.
+					Other races didn't get along with Kitsune due to magic being relatively
+					rare and all Kitsune being born with it. After the massive genocide
+					against their race, they became largely secretive.</p>
+			<p>After coming out of hiding, their faith in the world was restored after
+					the Great Nine-Tailed Tsukiko led them away from their destruction.
+					Most of the kitsune are still very secretive, albeit passionate about
+					their causes. It is in their nature to be a bit of a trickster with
+					people they get to know, and it isn't uncommon for their jokes to
+					'go a little too far' in the eyes of other races. Other races are wary
+					of these fox folk when they meet them. Many pose as humans in the world,
+					having shape changing as an innate ability in their blood. Many kitsune
+					go out to study magic or spread the word of their gods. Some simply want
+					to spread the stories of their kind, valuing these great stories, kitsune
+					bards to travel to other nations to tell their tales.</p>
+
+			<h4>KITSUNE NAMES</h4>
+			<p>Having had their society nearly exterminated, it is not all that uncommon
+					for a kitsune to have names of other races. The names listed below are
+					some traditional kitsune names.</p>
+			<ul class="unstyled">
+				<li><strong>Male Names:</strong> Akihiko, Daiki, Jirou, Kei, Osamu,
+					Takeo, Yuudai</li>
+				<li><strong>Female Names:</strong> Aya, Chinatsu, Eri, Mana, Ritsuko,
+					Sachiko, Tsukiko</li>
+			</ul>
+			<h4>KITSUNE TRAITS</h4>
+			<p>A race of anthropomorphic fox people who have magic in their blood and
+					light shape-changing capabilities.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong>
+				Your Charisma score increases by 2.</p>
+			<p class="indent"><strong><em>Age.</em></strong> Kitsune reach adulthood
+				at 16, cease physical aging in their early 20s and live to be a century
+				and a half.</p>
+			<p class="indent"><strong><em>Alignment.</em></strong> Due to their nature
+				of being a bit mischievous, kitsune are often chaotic. Even the most
+				skilled monks find it difficult to ignore the desire to be a bit
+				mischievous at times, but they tend to approach the trick in a much more
+				planned out and guided manner. Kitsune are known to be both good and evil.</p>
+			<p class="indent"><strong><em>Size.</em></strong> Kitsune are generally on
+				the smaller side of most humanoids ranging from 4'7 to the tallest being
+				just under 6'. Weight wise kitsune are as light and agile as they look.
+				Your size is Medium.</p>
+			<p class="indent"><strong><em>Speed.</em></strong> Your base walking speed
+				is 30 feet. While not carrying anything in your hands you can drop to all
+				fours and increase your movement speed to 35 feet.</p>
+			<p class="indent"><strong><em>Kitsune Awareness.</em></strong> You have the
+				ability to hear falsehoods for what they are. You know if you hear a
+				creature willingly lie. A creature hidden from divination magic reveals
+				nothing.</p>
+			<p class="indent"><strong><em>Kitsune Trickery.</em></strong> You can appear
+				as a human equivalent of yourself indefinitely using a very simple
+				illusion magic, you cannot change alter your illusionary human self.
+				A creature looking directly at you can make a Intelligence (Investigation)
+				check, to tell that you are not what you appear to be, though they still
+				cannot perceive your true form. The DC for this check is equal to
+				10 + your proficiency bonus + your Charisma modifier. This magic is
+				detectable by spells such as detect magic and dispelled in an antimagic
+				field or by a successful dispel magic. Your proficiency bonus is considered
+				the level of the spell for the sake of dispel magic. If your illusion is
+				dispelled you cannot use the effect again until after a long rest.</p>
+			<p class="indent"><strong><em>Languages.</em></strong> You can speak, read, and write Common.</p>
+		</description>
+		<sheet display="false" />
+		<setters>
+			<set name="names" type="male">Akihiko, Daiki, Jirou, Kei, Osamu,
+				Takeo, Yuudai</set>
+			<set name="names" type="female">Aya, Chinatsu, Eri, Mana, Ritsuko,
+				Sachiko, Tsukiko</set>
+			<set name="names-format">{{name}}</set>
+			<set name="height" modifier="2d8">4'5"</set>
+			<set name="weight" modifier="1d8">75 lb.</set>
+		</setters>
+		<rules>
+			<stat name="charisma" value="2" />
+			<stat name="innate speed" value="30" bonus="base"/>
+			<grant type="Size" id="ID_SIZE_MEDIUM" />
+			<grant type="Language" id="ID_LANGUAGE_COMMON" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_KITSUNE_AWARENESS" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_KITSUNE_TRICKERY" />
+			<select type="Sub Race" name="Kitsune Subrace" supports="Kitsune" optional="false" />
+		</rules>
+	</element>
+	<element name="Kitsune Awareness" type="Racial Trait" source="dandwiki" id="ID_RACIAL_TRAIT_KITSUNE_AWARENESS">
+		<description>
+			<p>You have the
+				ability to hear falsehoods for what they are. You know if you hear a
+				creature willingly lie. A creature hidden from divination magic reveals
+				nothing.</p>
+		</description>
+		<sheet>
+			<description>You know if you hear a creature willingly lie.
+				A creature hidden from divination magic reveals nothing.</description>
+		</sheet>
+	</element>
+	<element name="Kitsune Trickery" type="Racial Trait" source="dandwiki" id="ID_RACIAL_TRAIT_KITSUNE_TRICKERY">
+		<description>
+			<p>You can appear as a human equivalent of yourself indefinitely using a
+				very simple illusion magic, you cannot change alter your illusionary
+				human self. A creature looking directly at you can make a Intelligence
+				(Investigation) check, to tell that you are not what you appear to be,
+				though they still cannot perceive your true form. The DC for this check
+				is equal to 10 + your proficiency bonus + your Charisma modifier. This
+				magic is detectable by spells such as detect magic and dispelled in an
+				antimagic field or by a successful dispel magic. Your proficiency bonus
+				is considered the level of the spell for the sake of dispel magic. If
+				your illusion is dispelled you cannot use the effect again until after
+				a long rest.</p>
+		</description>
+		<sheet>
+			<description>You can appear as a human equivalent of yourself indefinitely.
+				A creature looking directly at you can make a Intelligence (Investigation) check,
+				to tell that you are not what you appear to be, though they still cannot
+				perceive your true form. (DC = 10 + proficiency bonus + Charisma modifier.)</description>
+		</sheet>
+	</element>
+	<element name="Kitsune Subrace" type="Racial Trait" source="dandwiki" id="ID_RACIAL_TRAIT_KITSUNE_SUBRACE">
+		<sheet display="false" />
+		<rules>
+			<select type="Sub Race" name="Kitsune Subrace" supports="Kitsune" />
+		</rules>
+	</element>
+
+	<element name="Zenko Kitsune" type="Sub Race" source="dandwiki" id="ID_SUB_RACE_ZENKO_KITSUNE">
+		<supports>Kitsune</supports>
+		<description>
+			<p>They are known as celestial kitsune since most are benevolent and kind.
+				These kitsune tend to have the lighter fur colors, white, golden brown,
+				grey, etc.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Wisdom score increases by 1.</p>
+			<p class="indent"><strong><em>Kitsune Divinity.</em></strong>
+				You know the produce flame cantrip, with the exception that your flame
+				is blue. When you reach 3rd level, you can cast the bless spell once per
+				long rest. When you reach 5th level, you can also cast the calm emotions
+				spell once per long rest. Charisma is your spellcasting ability for these spells.</p>
+			<p class="indent"><strong><em>Second Language.</em></strong> You can speak, read, and write Celestial.</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<stat name="wisdom" value="1" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_KITSUNE_DIVINITY" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_LANGUAGE_CELESTIAL" />
+		</rules>
+	</element>
+	<element name="Kitsune Divinity" type="Racial Trait" source="dandwiki" id="ID_RACIAL_TRAIT_KITSUNE_DIVINITY">
+		<description>You know the produce flame cantrip, with the exception that your flame
+		is blue. When you reach 3rd level, you can cast the bless spell once per
+		long rest. When you reach 5th level, you can also cast the calm emotions
+		spell once per long rest. Charisma is your spellcasting ability for these spells.
+		</description>
+		<sheet>
+			<description>You know the Produce Flame cantrip, with the exception that your flame is blue.
+				Charisma is your spellcasting ability for this spell.</description>
+			<description level="3">You know the Produce Flame cantrip, with the exception that your flame is blue.
+				You can cast Bless 1/Long Rest.
+				Charisma is your spellcasting ability for these spells.</description>
+				<description level="5">You know the Produce Flame cantrip, with the exception that your flame is blue.
+					You can cast Bless 1/Long Rest.
+					You can cast Calm Emotions 1/Long Rest.
+					Charisma is your spellcasting ability for these spells.</description>
+		</sheet>
+		<rules>
+			<grant type="Spell" id="ID_PHB_SPELL_PRODUCE_FLAME" level="1"/>
+			<grant type="Spell" id="ID_PHB_SPELL_BLESS" level="3"/>
+			<grant type="Spell" id="ID_PHB_SPELL_CALM_EMOTIONS" level="5"/>
+		</rules>
+	</element>
+	<element name="Second Language Celestial" type="Racial Trait" source="dandwiki" id="ID_RACIAL_TRAIT_LANGUAGE_CELESTIAL">
+		<description>
+			<p>You can speak, read, and write Celestial.</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<grant type="Language" name="Celestial" id="ID_LANGUAGE_CELESTIAL" level="1" />
+		</rules>
+	</element>
+
+	<element name="Yako Kitsune" type="Sub Race" source="dandwiki" id="ID_SUB_RACE_YAKO_KITSUNE">
+		<supports>Kitsune</supports>
+		<description>
+			<p>They are known as trickster kitsune since they are the ones more prone
+				to their prankster heritage. These kitsune tend to have the darker fur
+				colors, black, reddish brown, dark grey, etc.</p>
+			<p class="indent"><strong><em>Ability Score Increase.</em></strong> Your Dexterity score increases by 1.</p>
+			<p class="indent"><strong><em>Kitsune Arcana.</em></strong>
+				You know the produce flame cantrip, with the exception that your flame
+				is blue. When you reach 3rd level, you can cast Cause Fear once per long rest.
+				When you reach 5th level, you can cast Phantasmal Force once per long rest.
+				Charisma is your spellcasting ability for these spells.</p>
+			<p class="indent"><strong><em>Second Language.</em></strong> You can speak, read, and write Sylvan.</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<stat name="dexterity" value="1" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_KITSUNE_ARCANA" />
+			<grant type="Racial Trait" id="ID_RACIAL_TRAIT_LANGUAGE_SYLVAN" />
+		</rules>
+	</element>
+	<element name="Kitsune Arcana" type="Racial Trait" source="dandwiki" id="ID_RACIAL_TRAIT_KITSUNE_ARCANA">
+		<description>You know the produce flame cantrip, with the exception that your flame
+		is blue. When you reach 3rd level, you can cast the Cause Fear spell once per
+		long rest. When you reach 5th level, you can also cast the Phantasmal Force
+		spell once per long rest. Charisma is your spellcasting ability for these spells.
+		</description>
+		<sheet>
+		<description>You know the Produce Flame cantrip, with the exception that your flame is blue.
+			Charisma is your spellcasting ability for this spell.</description>
+		<description level="3">You know the Produce Flame cantrip, with the exception that your flame is blue.
+			You can cast Cause Fear 1/Long Rest.
+			Charisma is your spellcasting ability for these spells.</description>
+			<description level="5">You know the Produce Flame cantrip, with the exception that your flame is blue.
+				You can cast Cause Fear 1/Long Rest.
+				You can cast Phantasmal Force 1/Long Rest.
+				Charisma is your spellcasting ability for these spells.</description>
+		</sheet>
+		<rules>
+			<grant type="Spell" id="ID_PHB_SPELL_PRODUCE_FLAME" level="1"/>
+			<grant type="Spell" id="ID_XGTE_SPELL_CAUSE_FEAR" level="3"/>
+			<grant type="Proficiency" id="ID_PHB_SPELL_PHANTASMAL_FORCE" level="5"/>
+		</rules>
+	</element>
+	<element name="Second Language Sylvan" type="Racial Trait" source="dandwiki" id="ID_RACIAL_TRAIT_LANGUAGE_SYLVAN">
+		<description>
+			<p>You can speak, read, and write Sylvan.</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<grant type="Language" name="Sylvan" id="ID_LANGUAGE_SYLVAN" level="1" />
+		</rules>
+	</element>
+
+	<!-- an element that you should grant in a subrace so that you can override stats/infernal legacy -->
+	<element name="Kitsune Subrace" type="Grants" source="Internal" id="ID_INTERNAL_GRANTS_KITSUNE_SUBRACE" />
+</elements>
